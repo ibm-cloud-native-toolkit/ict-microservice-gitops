@@ -1,5 +1,8 @@
 global: {}
 
+ict-microservice:
+  replicaCount: 2
+  
 argocd-config:
   repoUrl: ""
 
